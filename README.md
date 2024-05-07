@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @hebasultana123
-- 👀 I’m interested in art and random stuff
-- 🌱 I’m currently learning Computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
--     Instagram - @hebasultana
+
 
 <!---
 hebasultana123/hebasultana123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
